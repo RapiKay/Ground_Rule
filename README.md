@@ -40,6 +40,6 @@ yy-mm-dd~yy-mm-dd.md의 형태로 남겨두도록 합시다.
 
 #### 공동 수정자
 -@PrettyYukyoung
-- [이 저로 본인 아이디]
+-@HARDTACK-DEV
 
   
