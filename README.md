@@ -9,19 +9,19 @@ Podo의 기본 규칙입니다.
 yy-mm-dd~yy-mm-dd.md의 형태로 남겨두도록 합시다.
 
 ## Purpose : Podo의 목적
-- 
+- 프로젝트하기
 
 
 ## Must : 꼭 지켜야 할 규칙
-- 
+-시간을지키자
 
 
 ## Have to : 해야하는 것
-- 
+- 프로젝트하기
 
 
 ## Should : 하는게 어때?
-- 
+-서로도와주기
 
 
 ### 예시 선택지
@@ -39,8 +39,14 @@ yy-mm-dd~yy-mm-dd.md의 형태로 남겨두도록 합시다.
 
 
 #### 공동 수정자
-- @ajy720
-- [이 아래로 본인 ID 기재]
 
 - @PrettyYukyoung
-
+- @HARDTACK-DEV
+- @ajy720
+- @J-amelie
+- @ksh030102
+- @SkyLightQP
+- @heilorg
+- @sun04303
+- @arkc1009
+- @Twince-Dev
