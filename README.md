@@ -40,10 +40,13 @@ yy-mm-dd~yy-mm-dd.md?�� ?��?���? ?��겨두?���? ?��?
 
 #### 공동 ?��?��?��
 - @ajy720
-- @RapiKay
+- @J-amelie
 - @ksh030102
 - @SkyLightQP
-- [이 아래로 본인 ID 기재]
 - @heilorg
+- @sun04303
+- @arkc1009
+- @RapiKay
+
 
   
