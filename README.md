@@ -49,7 +49,5 @@ yy-mm-dd~yy-mm-dd.md의 형태로 남겨두도록 합시다.
 - @heilorg
 - @sun04303
 - @arkc1009
-- [이 아래로 본인 ID 기재]
-
-
+- @Twince-Dev
   
